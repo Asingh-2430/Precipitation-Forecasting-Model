@@ -1,7 +1,3 @@
----
-### 📄 `README.md`
-
-```markdown
 # 🌧️ Precipitation Forecasting Using Machine Learning in R
 
 This project focuses on predicting rainfall based on weather attributes using various supervised and unsupervised machine learning algorithms implemented in **R**. A comprehensive evaluation is performed to compare model performance on classification metrics.
@@ -9,6 +5,7 @@ This project focuses on predicting rainfall based on weather attributes using va
 ---
 
 ## 📁 Project Structure
+
 
 ```
 precipitation-forecasting/
@@ -78,8 +75,9 @@ The plot is saved inside the `plots/` directory.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/precipitation-forecasting.git
-cd precipitation-forecasting
+git clone https://github.com/Asingh-2430/Precipitation-Forcasting-Model.git
+cd Precipitation-Forcasting-Model
+
 ```
 
 ### 2️⃣ Install Required Packages
